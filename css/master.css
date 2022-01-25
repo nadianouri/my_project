@@ -1,0 +1,60 @@
+body {
+    background-color:rgb(231, 193, 213);
+}
+h1 {
+    color: darkslategray;
+    font-style: italic;
+    font-size: 40px;
+    margin-top: -40;
+    margin-left: 40px;
+    text-transform: capitalize;
+}
+.title {
+    color: rgb(79, 121, 121);
+    font-style: normal;
+    font-size: 15px;
+    margin-top: -25px;
+    margin-left: 40px;
+}
+h2 {
+    color: rgb(122, 70, 122) ;
+    font-style: italic;
+    font-size: 30px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    margin-left: 15px;
+}
+.all-content {
+    font-size: 14px;
+    font-style: normal;
+    font-family: serif;
+}
+.first-para {
+    color: rgb(79, 121, 121);
+    margin-left: 10px;
+    font-size: 20px;
+}
+.contact-info {
+    color: darkolivegreen;
+    font-size: 15px; 
+}
+.second-para {
+    font-size: 14px;
+    font-style: normal;
+    font-family: serif;
+    margin-left: 10px;
+    color: black;
+}
+a:link {
+    text-decoration: none;
+    color: darkslategrey;
+}
+a:hover {
+    color: darkcyan;
+}
+a:active {
+    color: darkseagreen;
+}
+a:visited {
+    color: chocolate;
+}
